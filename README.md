@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> I created this repository with the initial settings of a project using Next.js configured so that I don't have to start from scratch when starting a new project<br/><br/>Configs:<br/><br/>- Typescript <br/>- ESLint <br/>- Prettier <br/>- Editor Config<br/>- Styled Components<br/>-Some others.
+> I created this repository with the initial settings of a project using Next.js configured so that I don't have to start from scratch when starting a new project<br/><br/>Configs:<br/><br/>- Typescript <br/>- ESLint <br/>- Prettier <br/>- Editor Config<br/>- Styled Components<br/>- Some others.
 
 
 
